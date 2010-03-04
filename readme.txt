@@ -1,6 +1,6 @@
 === Hit An External Cron ===
 Contributors: jorbin
-Donate link: http://example.com/
+Donate link: http://aaron.jorb.in/thank-you-aaron/
 Tags: cron, external scripts
 Requires at least: 2.9.2
 Tested up to: 3.0
